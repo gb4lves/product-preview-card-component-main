@@ -96,6 +96,7 @@ h2, .price {
     text-decoration: line-through;
     font-weight: 400;
     color: var(--cor4);
+    font-size: 0.9em;
 }
 
 .price {
