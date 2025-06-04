@@ -2,7 +2,7 @@
 
 @media screen and (min-width: 600px) {
     body {
-        font-size: 20px;
+        font-size: 16px;
     }
 
     main {
@@ -14,8 +14,8 @@
     }
 
     section {
-        width: 800px;
-        height: 550px;
+        width: 604px;
+        height: 456px;
     }
 
     section article {
@@ -35,7 +35,7 @@
     font-size: 0.8em;
     letter-spacing: 5px;
 
-    margin-bottom: 30px;
+    margin-bottom: 20px;
     }
 
     section p {
@@ -46,7 +46,7 @@
     }
 
     section h2 {
-        margin-bottom: 30px;
+        margin-bottom: 20px;
         line-height: 1em;
     }
 
@@ -61,7 +61,7 @@
         justify-content: flex-start;
         align-items: center;
 
-        margin-bottom: 30px;
+        margin-bottom: 20px;
     }
 
     .desconto {

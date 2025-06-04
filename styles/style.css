@@ -39,8 +39,8 @@ main {
 
 section {
     background-color: var(--cor6);
-    height: 640px;
-    width: 370px;
+    height: 616px;
+    width: 343px;
 
     border-radius: 15px;
     overflow: hidden;
